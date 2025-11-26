@@ -58,9 +58,6 @@ GEMINI_API_KEY=YOUR_API_KEY_HERE
 python main.py
 
 
-3️⃣ Open browser:
-
-http://127.0.0.1:5000
 
 
 4️⃣ Upload a PDF + enter job description
